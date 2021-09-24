@@ -2,22 +2,22 @@
    "files": [    
 
 {
-         "name": "SG_UNLI_001",
+         "name": "SG-UNLI-001",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-001.ovpn"
       },
 
 
 {
-         "name": "SG_UNLI_002",
+         "name": "SG-UNLI-002",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-002.ovpn"
       },
 {
-         "name": "SG_UNLI_003",
+         "name": "SG-UNLI-003",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-003.ovpn"
       },
 
 {
-         "name": "SG_UNLI_004",
+         "name": "SG-UNLI-004",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-004.ovpn"
       },
 
@@ -25,177 +25,217 @@
       
 
 {
-         "name": "SG_UNLI_005",
+         "name": "SG-UNLI-005",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-005.ovpn"
       },
 {
-         "name": "SG_UNLI_006",
+         "name": "SG-UNLI-006",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-006.ovpn"
     },
 
 {
-         "name": "SG_UNLI_007",
+         "name": "SG-UNLI-007",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-007.ovpn"
       },
 {
-         "name": "SG_UNLI_008",
+         "name": "SG-UNLI-008",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-008.ovpn"
       },
 
 {
-         "name": "SG_UNLI_009",
+         "name": "SG-UNLI-009",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-009.ovpn"
     },
 
 {
-         "name": "SG_UNLI_010",
+         "name": "SG-UNLI-010",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-010.ovpn"
     },
 
 {
-         "name": "SG_UNLI_011",
+         "name": "SG-UNLI-011",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-011.ovpn"
       },
 {
-         "name": "SG_UNLI_012",
+         "name": "SG-UNLI-012",
          "url": "https://juessh.000webhostapp.com/SG-UNLI-012.ovpn"
       },
 
 {
-         "name": "SG_CKPH_001",
+         "name": "SG-CKPH-001",
          "url": "https://juessh.000webhostapp.com/SG-CKPH-001.ovpn"
     },
 
 {
-         "name": "SG_CKPH_002",
+         "name": "SG-CKPH-002",
          "url": "https://juessh.000webhostapp.com/SG-CKPH-002.ovpn"
       },
 {
-         "name": "SG_CKPH_003",
+         "name": "SG-CKPH-003",
          "url": "https://juessh.000webhostapp.com/SG-CKPH-003.ovpn"
       },
 
 {
-         "name": "IN_UNLI_001",
+         "name": "IN-UNLI-001",
          "url": "https://juessh.000webhostapp.com/IN-UNLI-001.ovpn"
     },
 
 {
-         "name": "IN_UNLI_002",
+         "name": "IN-UNLI-002",
          "url": "https://juessh.000webhostapp.com/IN-UNLI-002.ovpn"
     },
 
 
 {
-         "name": "IN_UNLI_003",
+         "name": "IN-UNLI-003",
          "url": "https://juessh.000webhostapp.com/IN-UNLI-003.ovpn"
     },
 
 {
-         "name": "IN_Micro_001",
+         "name": "IN-Micro-001",
          "url": "https://juessh.000webhostapp.com/IN-Micro-001.ovpn"
     },
 
 {
-         "name": "IN_Micro_002",
+         "name": "IN-Micro-002",
          "url": "https://juessh.000webhostapp.com/IN-Micro-002.ovpn"
       },
 {
-         "name": "SG_Micro_001",
+         "name": "SG-Micro-001",
          "url": "https://juessh.000webhostapp.com/SG-Micro-001.ovpn"
       },
 
 {
-         "name": "SG_Micro_002",
+         "name": "SG-Micro-002",
          "url": "https://juessh.000webhostapp.com/SG-Micro-002.ovpn"
       },
 
 {
-         "name": "SG_Micro_003",
+         "name": "SG-Micro-003",
          "url": "https://juessh.000webhostapp.com/SG-Micro-003.ovpn"
       },
 
 {
-         "name": "SG_Micro_004",
+         "name": "SG-Micro-004",
          "url": "https://juessh.000webhostapp.com/SG-Micro-004.ovpn"
       },
 
 {
-         "name": "SG_Micro_005",
+         "name": "SG-Micro-005",
          "url": "https://juessh.000webhostapp.com/SG-Micro-005.ovpn"
       },
 
 
 {
-         "name": "SG_Micro_Torrent",
+         "name": "SG-Micro-Torrent",
          "url": "https://juessh.000webhostapp.com/SG-Micro-Torrent.ovpn"
       },
 
 {
-         "name": "SG_Micro_011",
+         "name": "SG-Micro-011",
          "url": "https://juessh.000webhostapp.com/SG-Micro-011.ovpn"
       },
 
 {
-         "name": "SG_Micro_012",
+         "name": "SG-Micro-012",
          "url": "https://juessh.000webhostapp.com/SG-Micro-012.ovpn"
       },
 
 {
-         "name": "SG_Micro_013",
+         "name": "SG-Micro-013",
          "url": "https://juessh.000webhostapp.com/SG-Micro-013.ovpn"
       },
 
 {
-         "name": "SG_Micro_014",
+         "name": "SG-Micro-014",
          "url": "https://juessh.000webhostapp.com/SG-Micro-014.ovpn"
       },
 
 {
-         "name": "SG_Micro_015",
+         "name": "SG-Micro-015",
          "url": "https://juessh.000webhostapp.com/SG-Micro-015.ovpn"
       },
 
 {
-         "name": "SG_CKPH_004",
+         "name": "SG-CKPH-004",
          "url": "https://juessh.000webhostapp.com/SG-CKPH-004.ovpn"
     },
 
 {
-         "name": "SG_CKPH_005",
+         "name": "SG-CKPH-005",
          "url": "https://juessh.000webhostapp.com/SG-CKPH-005.ovpn"
       },
 {
-         "name": "SG_CKPH_006",
+         "name": "SG-CKPH-006",
          "url": "https://juessh.000webhostapp.com/SG-CKPH-006.ovpn"
       },
 
 {
-         "name": "SG_CKPH_007",
+         "name": "SG-CKPH-007",
          "url": "https://juessh.000webhostapp.com/SG-CKPH-007.ovpn"
     },
 
 {
-         "name": "IN_CKPH_001",
+         "name": "IN-CKPH-001",
          "url": "https://juessh.000webhostapp.com/IN-CKPH-001.ovpn"
       },
 {
-         "name": "IN_Micro_003",
+         "name": "IN-Micro-003",
          "url": "https://juessh.000webhostapp.com/IN-Micro-003.ovpn"
       },
 
 {
-         "name": "SG_Micro_30D1",
+         "name": "SG-Micro-30D1",
          "url": "https://juessh.000webhostapp.com/SG_Micro_30D1.ovpn"
       },
 
 {
-         "name": "SG_Micro_30D2",
+         "name": "SG-Micro-30D2",
          "url": "https://juessh.000webhostapp.com/SG_Micro_30D2.ovpn"
+      },
+
+{
+         "name": "SG-Valor-001",
+         "url": "https://juessh.000webhostapp.com/SG-Valor-001.ovpn"
+      },
+
+
+{
+         "name": "SG-Valor-002",
+         "url": "https://juessh.000webhostapp.com/SG-Valor-002.ovpn"
+      },
+{
+         "name": "SG-Valor-003",
+         "url": "https://juessh.000webhostapp.com/SG-Valor-003.ovpn"
+      },
+
+{
+         "name": "SG-Valor-004",
+         "url": "https://juessh.000webhostapp.com/SG-Valor-004.ovpn"
+      },
+
+
+      
+{
+         "name": "SG-Valor-005",
+         "url": "https://juessh.000webhostapp.com/SG-Valor-005.ovpn"
+      },
+{
+         "name": "SG-Valor-006",
+         "url": "https://juessh.000webhostapp.com/SG-Valor-006.ovpn"
+    },
+
+{
+         "name": "SG-Valor-007",
+         "url": "https://juessh.000webhostapp.com/SG-Valor-007.ovpn"
+      },
+{
+         "name": "SG-Valor-008",
+         "url": "https://juessh.000webhostapp.com/SG-Valor-008.ovpn"
       }
 
    ],
-"message":"Fixed Microssh Again\n• Add Micro 30D1,D2 \n•Version: 11\n•update: 24/09/2021\n•Update by: juehtet\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n• Config By:JH ",
-   "title":"Micro ဆာဗာပြင်ပီးပါပြီး Update" ,
-   "version": 11
+"message":"Fixed Microssh Again\n• Add Valor SG1 to 8 \n•Version: 13\n•update: 24/09/2021\n•Update by: juehtet\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n• Config By:JH ",
+   "title":"Add Valor Servers Please Update" ,
+   "version": 13
 }
