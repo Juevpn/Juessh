@@ -125,30 +125,6 @@
          "url": "https://juessh.000webhostapp.com/SG-Micro-005.ovpn"
       },
 
-{
-         "name": "SG_Micro_006",
-         "url": "https://juessh.000webhostapp.com/SG-Micro-006.ovpn"
-      },
-
-{
-         "name": "SG_Micro_007",
-         "url": "https://juessh.000webhostapp.com/SG-Micro-007.ovpn"
-      },
-
-{
-         "name": "SG_Micro_008",
-         "url": "https://juessh.000webhostapp.com/SG-Micro-008.ovpn"
-      },
-
-{
-         "name": "SG_Micro_009",
-         "url": "https://juessh.000webhostapp.com/SG-Micro-009.ovpn"
-      },
-
-{
-         "name": "SG_Micro_010",
-         "url": "https://juessh.000webhostapp.com/SG-Micro-010.ovpn"
-      },
 
 {
          "name": "SG_Micro_Torrent",
@@ -219,7 +195,7 @@
       }
 
    ],
-"message":"Fixed UNLISSH Again\n• Add Micro 30D1,D2 \n•Version: 10\n•update: 21/09/2021\n•Update by: juehtet\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n• Config By:JH ",
-   "title":"ဖိုင်အသစ် ခုပဲအပ်ဒိတ်လိုက်ပါ please" ,
-   "version": 10
+"message":"Fixed Microssh Again\n• Add Micro 30D1,D2 \n•Version: 11\n•update: 24/09/2021\n•Update by: juehtet\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n• Config By:JH ",
+   "title":"Micro ဆာဗာပြင်ပီးပါပြီး Update" ,
+   "version": 11
 }
