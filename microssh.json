@@ -232,10 +232,25 @@
 {
          "name": "SG-Valor-008",
          "url": "https://juessh.000webhostapp.com/SG-Valor-008.ovpn"
+      },
+
+{
+         "name": "SG-Kidlat-001",
+         "url": "https://juessh.000webhostapp.com/SG-Kidlat-001.ovpn"
+      },
+
+
+{
+         "name": "SG-Kidlat-002",
+         "url": "https://juessh.000webhostapp.com/SG-Kidlat-002.ovpn"
+      },
+{
+         "name": "IN-Kidlat-001",
+         "url": "https://juessh.000webhostapp.com/IN-Kidlat-001.ovpn"
       }
 
    ],
-"message":"Fixed Microssh Again\n• Add Valor SG1 to 8 \n•Version: 1\n•update: 24/09/2021\n•Update by: juehtet\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n• Config By:JH ",
+"message":"Add Admin Panel\n• Add Kidlat SG1 to 2 \n•Version: 2\n•update: 25/09/2021\n•Update by: juehtet\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n• Config By:JH ",
    "title":"Add Valor Servers Please Update" ,
-   "version": 1
+   "version": 2
 }
